@@ -1,2 +1,2 @@
 # BetterMatLab
- Some cool stuff for MatLab
+Небольшие функции и скрипты для MatLab/Octave
