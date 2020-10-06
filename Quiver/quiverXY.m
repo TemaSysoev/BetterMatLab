@@ -1,3 +1,4 @@
+% Построение вектора по координатам
 function [] = quiverXY(beginX, beginY, endX, endY)
     x = beginX;
     y = beginY;

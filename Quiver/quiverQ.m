@@ -1,3 +1,4 @@
+% Постороение вектора из определенной точки
 function [] = quiverQ(beginX, beginY, q)
     x = beginX;
     y = beginY;
